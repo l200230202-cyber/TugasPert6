@@ -13,7 +13,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
-  # ➜ Tambahan untuk membuka file PDF
+
   flutter_pdfview: ^1.2.7
   path_provider: ^2.1.2
 
@@ -26,6 +26,6 @@ flutter:
 
   uses-material-design: true
 
-  # ➜ Tambahkan folder asset PDF kamu
+ 
   assets:
     - assets/pdf/
